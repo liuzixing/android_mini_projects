@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Dijkstra&amp;Knuth</string>
+    <string name="action_settings">Settings</string>
+    <string name="dijkstra_name">Edsger W. Dijkstra</string>
+    <string name="dijkstra_background">	    Edsger Wybe Dijkstra (Dutch pronunciation: [ˈɛtsxər ˈʋibə ˈdɛikstra] ( listen); 11 May 1930 – 6 August 2002) was a Dutch computer scientist.[1] He received the 1972 Turing Award for fundamental contributions to developing programming languages, and was the Schlumberger Centennial Chair of Computer Sciences at The University of Texas at Austin from 1984 until 2000.
+
+Shortly before his death in 2002, he received the ACM PODC Influential Paper Award in distributed computing for his work on self-stabilization of program computation. This annual award was renamed the Dijkstra Prize the following year, in his honor.</string>
+	<string name="knuth_name">Donald Knuth</string>
+	<string name="knuth_background">
+	    Donald Ervin Knuth (/kəˈnuːθ/[1] kə-nooth; born January 10, 1938) is an American computer scientist, mathematician, and Professor Emeritus at Stanford University.[2]
+
+He is the author of the multi-volume work The Art of Computer Programming.[3] Knuth has been called the "father" of the analysis of algorithms. He contributed to the development of the rigorous analysis of the computational complexity of algorithms and systematized formal mathematical techniques for it. In the process he also popularized the asymptotic notation. In addition to fundamental contributions in several branches of theoretical computer science, Knuth is the creator of the TeX computer typesetting system, the related METAFONT font definition language and rendering system, and the Computer Modern family of typefaces.
+
+As a writer and scholar,[4] Knuth created the WEB and CWEB computer programming systems designed to encourage and facilitate literate programming, and designed the MIX/MMIX instruction set architectures. As a member of the academic and scientific community, Knuth is strongly opposed to the policy of granting software patents.[5] He has expressed his disagreement directly to both the United States Patent and Trademark Office and European Patent Organization.[6]
+	</string>
+
+</resources>

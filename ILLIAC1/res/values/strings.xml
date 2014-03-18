@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name" translatable="false">ILLIAC I</string>
+    <string name="caption">
+The ILLIAC I, the University of Illinois\'s computer was available for use on September 22, 1952 and was in service for 10 years. Originally, it was only available for use eight hours a day, but it gradually became available for use twenty-four hours a day, six days a week. The ILLIAC I used 2,800 vacuum tubes, and measured ten feet high, two feet wide, and eight and a half feet tall. The total weight of the machine was five tons. The ILLIAC I was an impressive machine for its time. It could store 1024 40-bit words in memory at any given moment (5K) and the magnetic drum storage unit stored 12,800 40-bit words (64K).
+ILLIAC I had limited input and output. Originally, input was only possible through five holed paper tape (100 characters / second), while output was possible on either five holed paper tape (60 characters / second) or by a Cathode Ray Tube Display (either visually or onto film). Later the tape readers and punches were replaced by eight holed readers and punchers was added.
+Since the ILLIAC I was the only computer of its kind on campus, access time was limited. The limitations of input and output meant that actual computer time was limited to computation time, plus input and output time.  Once a program was written, it was tested for errors. Each programmer was allowed two five minute time slots per day, to check their program, once in the morning, and once in the afternoon.        
+    </string>
+    <string name="illiac_1" translatable="false">ILLIAC I</string>
+
+</resources>

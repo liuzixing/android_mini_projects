@@ -1,0 +1,35 @@
+
+The source code and layout files are licensed under the MIT Open Source License:
+
+Copyright (c) 2013 Lawrence Angrave
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in
+all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
+THE SOFTWARE.
+
+---
+The text,
+"
+The ILLIAC I, the University of Illinois's computer was available for use on September 22, 1952 and was in service for 10 years. Originally, it was only available for use eight hours a day, but it gradually became available for use twenty-four hours a day, six days a week. The ILLIAC I used 2,800 vacuum tubes, and measured ten feet high, two feet wide, and eight and a half feet tall. The total weight of the machine was five tons. The ILLIAC I was an impressive machine for its time. It could store 1024 40-bit words in memory at any given moment (5K) and the magnetic drum storage unit stored 12,800 40-bit words (64K).
+ILLIAC I had limited input and output. Originally, input was only possible through five holed paper tape (100 characters / second), while output was possible on either five holed paper tape (60 characters / second) or by a Cathode Ray Tube Display (either visually or onto film). Later the tape readers and punches were replaced by eight holed readers and punchers was added.
+Since the ILLIAC I was the only computer of its kind on campus, access time was limited. The limitations of input and output meant that actual computer time was limited to computation time, plus input and output time.  Once a program was written, it was tested for errors. Each programmer was allowed two five minute time slots per day, to check their program, once in the morning, and once in the afternoon.
+"
+is a modified and shortened version of James Bohn's history of the Illiac I,
+http://ems.music.uiuc.edu/history/illiac.html
+
+And is reproduced with permission from the author 
+for use in this Android course.

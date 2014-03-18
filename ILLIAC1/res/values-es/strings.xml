@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="caption">
+El ILLIAC I, equipo de la Universidad de Illinois estaba disponible para su uso el 22 de septiembre 1952 y estaba en servicio durante 10 años. En un principio, sólo estaba disponible para el uso de ocho horas diarias , pero gradualmente se hizo disponible para el uso veinticuatro horas al día, seis días a la semana . El ILLIAC usé los tubos de vacío 2800 y mide tres metros de altura , dos metros de ancho y ocho pies y medio de altura. El peso total de la máquina era de cinco toneladas . El ILLIAC que era una máquina impresionante para su época. Podría almacenar 1024 palabras de 40 bits en la memoria en cualquier momento dado ( 5K ) y la unidad de almacenamiento de tambor magnético almacenado 12.800 palabras de 40 bits ( 64K ) .
+ILLIAC tenía entrada y salida limitada . Originalmente , la entrada sólo era posible a través de cinco cintas de papel perforado ( 100 caracteres / segundo ) , mientras que la producción fue posible a cada cinta de papel perforado cinco ( 60 caracteres / segundo ) o por una pantalla de tubo de rayos catódicos (ya sea visual o en una placa) . Más tarde, los lectores de cintas y golpes fueron reemplazados por ocho lectores agujereadas y se añadió pegadores .
+Desde el ILLIAC yo era el único equipo de su clase en el campus, el tiempo de acceso era limitado. Las limitaciones de entrada y de salida significa que el tiempo real del equipo se limitó a tiempo de cálculo , además de la entrada y la hora de salida . Una vez que el programa fue escrito , que se puso a prueba de errores . Cada programador se le permitió dos cinco franjas horarias minutos por día , para comprobar su programa, una vez por la mañana y otra por la tarde.        
+    </string>
+    
+</resources>
